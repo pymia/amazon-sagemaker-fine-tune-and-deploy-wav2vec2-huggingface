@@ -1,3 +1,9 @@
+# PyData London 
+
+This GitHub repository is used in [Running the first automatic speech recognition (ASR) model with HuggingFace - PyData London 2022](https://pydata.org/london2022/). The content is modified from the [original repo](https://github.com/aws-samples/amazon-sagemaker-fine-tune-and-deploy-wav2vec2-huggingface) with extra reference links and detail pictures. 
+- [Slide Deck](https://www.slideshare.net/HuaiWenChang/running-the-first-automatic-speech-recognition-asr-model-with-huggingface-pydata-london-2022) 
+
+---
 # wav2vec2-huggingface-sagemaker
 **Fine-tune and deploy Wav2Vec2 model for speech recognition with HuggingFace and SageMaker**
 
